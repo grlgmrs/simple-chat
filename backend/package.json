@@ -1,0 +1,9 @@
+{
+  "name": "simple-chat-backend",
+  "main": "src/index.js",
+  "scripts": {},
+  "author": "gabriel.ctiunesp@gmail.com",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
